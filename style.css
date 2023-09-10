@@ -1,0 +1,28 @@
+body    {
+    background-color: black;
+}
+
+h1  {
+    text-align: center;
+    color:  #0f0;
+}
+
+h2  {
+    text-align: center;
+    color: #0f0;
+}
+
+p.introtext {
+    text-align: center;
+    color: white;
+}
+
+p.question   {
+    text-align: center;
+    color:  purple;
+}
+
+p.answer    {
+    text-align: center;
+    color:  white;
+}
